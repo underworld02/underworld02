@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello, World 👋
 
-<!--
-**underworld02/underworld02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Yang, a master's student at Hangzhou Dianzi University.
 
-Here are some ideas to get you started:
+Believing in long-termism, I am passionate about open source and enjoy experimenting with new ideas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+进步不能停。
+
+### 💻 Weekly Development Breakdown
+<!-- This section can be automated or updated manually, showing what languages or tools you're working with -->
+
+### 🔥 Product Releases
+
+### 📝 Recent Blog Posts
+- [InstantChat-AI智能聊天系统](https://github.com/underworld02/InstantChat)
+- [IdeaCollection-个人博客](https://github.com/underworld02/IdeaCollection)
+- [SecKill-秒杀系统](https://github.com/underworld02/SecKill)
+- 
+- 🔭 I’m currently working on Java
+- 🌱 I’m currently learning Algorithms
+- 🤔 I’m looking for help with experts
+- 💬 Ask me about everything
+- 📫 How to reach me: yangsygo@163.com
+
 -->
