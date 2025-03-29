@@ -10,6 +10,7 @@ Believing in long-termism, I am passionate about open source and enjoy experimen
 <!-- This section can be automated or updated manually, showing what languages or tools you're working with -->
 
 ### 🔥 Product Releases
+欢迎访问我的[个人博客网站](http://suron.com.cn)[http://suron.com.cn](http://suron.com.cn)
 
 ### 📝 Recent Blog Posts
 - [InstantChat-AI智能聊天系统](https://github.com/underworld02/InstantChat)
