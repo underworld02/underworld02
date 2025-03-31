@@ -14,7 +14,7 @@ Believing in long-termism, I am passionate about open source and enjoy experimen
 
 ### 📝 Recent Blog Posts
 - [InstantChat-AI智能聊天系统](https://github.com/underworld02/InstantChat)
-- [IdeaCollection-个人博客](http://suron.com.cn)
+- [IdeaCollection-个人博客](https://github.com/underworld02/IdeaCollection)
 - [SecKill-秒杀系统](https://github.com/underworld02/SecKill)
 - [KizunaAi-智能模块](https://github.com/underworld02/KizunaAi)
 - 
